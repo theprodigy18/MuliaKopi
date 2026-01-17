@@ -1,0 +1,1 @@
+This folder was for saving all product image that uploaded from admin site
